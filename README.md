@@ -65,3 +65,18 @@ The analysis provides insights into:
 ## Output
 
 The project generates performance metrics, visualizations, and a detailed report comparing the effectiveness of different supervised learning approaches for credit default prediction.
+
+```
+# Project by: Kasra Ghasemipoo
+# University: Università degli Studi di Milano
+# Academic Year: 2024/25
+
+## Author & Credits
+
+- Project by: Kasra Ghasemipoo
+- University: Università degli Studi di Milano
+- Academic Year: 2024/25
+- Contact:
+  - kghasemipoo@gmail.com
+  - kasra.ghasemipoo@studenti.unimi.it
+```
