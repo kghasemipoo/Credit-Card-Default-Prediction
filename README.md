@@ -1,12 +1,17 @@
+```
 # Supervised Learning Analysis: Credit Default Prediction
 
 ## Project Overview
 
 This project implements and compares various supervised learning algorithms for predicting credit card default payments. The analysis uses a comprehensive dataset of credit card client information to build and evaluate machine learning models for binary classification.
 
+---
+
 ## Dataset
 
 The analysis is performed on a credit card default dataset containing client demographics, payment history, and billing information. The target variable indicates whether a client will default on their next payment.
+
+---
 
 ## Methods Implemented
 
@@ -21,6 +26,8 @@ The analysis is performed on a credit card default dataset containing client dem
 - Confusion matrices for classification accuracy assessment
 - Feature importance analysis
 
+---
+
 ## Key Features
 
 - Data preprocessing and exploratory analysis
@@ -29,6 +36,8 @@ The analysis is performed on a credit card default dataset containing client dem
 - Comprehensive model comparison using multiple metrics
 - Feature importance visualization
 - ROC curve analysis for model performance evaluation
+
+---
 
 ## Requirements
 
@@ -41,11 +50,15 @@ The project requires the following R packages:
 - ggplot2
 - dplyr
 
+---
+
 ## Project Structure
 
 - `supervised.R`: Main analysis script containing all model implementations
 - `data.csv`: Credit card default dataset (not tracked in version control)
 - `supervisedReport.pdf`: Comprehensive analysis report with results and visualizations
+
+---
 
 ## Results
 
@@ -55,6 +68,8 @@ The analysis provides insights into:
 - Model accuracy and reliability metrics
 - Recommendations for deployment considerations
 
+---
+
 ## Usage
 
 1. Install required R packages
@@ -62,21 +77,20 @@ The analysis provides insights into:
 3. Run the `supervised.R` script to execute the complete analysis
 4. Review the generated report for detailed findings and model comparisons
 
+---
+
 ## Output
 
 The project generates performance metrics, visualizations, and a detailed report comparing the effectiveness of different supervised learning approaches for credit default prediction.
 
-```
-# Project by: Kasra Ghasemipoo
-# University: Università degli Studi di Milano
-# Academic Year: 2024/25
+---
 
 ## Author & Credits
 
-- Project by: Kasra Ghasemipoo
-- University: Università degli Studi di Milano
-- Academic Year: 2024/25
-- Contact:
+- **Project by**: Kasra Ghasemipoo
+- **University**: Università degli Studi di Milano
+- **Academic Year**: 2024/25
+- **Contact**:
   - kghasemipoo@gmail.com
   - kasra.ghasemipoo@studenti.unimi.it
 ```
