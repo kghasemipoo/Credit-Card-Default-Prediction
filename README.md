@@ -1,4 +1,3 @@
-```
 # Supervised Learning Analysis: Credit Default Prediction
 
 ## Project Overview
@@ -93,5 +92,3 @@ The project generates performance metrics, visualizations, and a detailed report
 - **Contact**:
   - kghasemipoo@gmail.com
   - kasra.ghasemipoo@studenti.unimi.it
-```
-
